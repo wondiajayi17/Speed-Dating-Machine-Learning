@@ -5,7 +5,7 @@ This repository contains a full end-to-end data science project using the Speed 
 
 The project focuses on data preparation, exploratory analysis and the application of multiple machine learning models to predict dating outcomes and participant preferences.
 
-🔍 Project overview
+Project overview
 The work includes:
 - Data cleaning and feature selection from a real-world behavioural dataset
 - Exploratory data analysis to understand demographic and preference patterns
@@ -13,7 +13,7 @@ The work includes:
 - Model evaluation and comparison using appropriate performance metrics
 - Hyperparameter tuning and cross-validation
 
-🧠 Models implemented
+Models implemented
 - Logistic Regression (match / no-match classification)
 - Linear Regression (preference and score prediction)
 - Artificial Neural Network (MLPRegressor)
@@ -22,17 +22,17 @@ The work includes:
 - Learning curve analysis
 - Confusion matrix and performance visualisation
 
-🛠️ Tools & technologies
+Tools & technologies
 - Python
 - pandas & NumPy
 - scikit-learn
 - matplotlib
 
-📁 Repository structure
+Repository structure
 
 Speed dating 1.ipynb, Speed dating 2.ipynb, Speed dating 3.ipynb – incremental modelling and analysis stages Speed dating coursework FINAL.ipynb – final consolidated and evaluated solution speeddatingDataset.csv–dataset used for all experiments
 
-🎯 Key skills demonstrated
+Key skills demonstrated
 - Real-world data preprocessing and feature engineering
 - Building and evaluating multiple machine learning models
 - Model selection and tuning using GridSearchCV
